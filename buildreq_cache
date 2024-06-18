@@ -1,0 +1,13 @@
+1.7.0
+libaio-dev
+pkgconfig(blkid)
+pkgconfig(libkeyutils)
+pkgconfig(liblz4)
+pkgconfig(libsodium)
+pkgconfig(libudev)
+pkgconfig(liburcu)
+pkgconfig(libzstd)
+pkgconfig(udev)
+pkgconfig(uuid)
+pkgconfig(zlib)
+rustc
